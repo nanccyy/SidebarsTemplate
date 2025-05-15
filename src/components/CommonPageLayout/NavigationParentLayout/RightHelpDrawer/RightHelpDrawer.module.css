@@ -1,0 +1,11 @@
+.drawer {
+    flex-shrink: 0;
+  }
+
+ .dragger {
+  width: 20px;
+  top: 50%;
+  left: -1px;
+  bottom: 50%;
+  transform: rotate(90deg);
+  }
